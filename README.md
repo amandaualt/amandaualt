@@ -1,6 +1,8 @@
 ### Hi there 👋
-![amamandaualt GitHub Stats](https://github-readme-stats.vercel.app/api?username=amandaualt&show_icons=true)
+
 <!--
+**![amamandaualt GitHub Stats](https://github-readme-stats.vercel.app/api?username=amandaualt&show_icons=true)
+
 **amandaualt/amandaualt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
