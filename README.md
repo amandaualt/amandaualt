@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 <!--
 **![amamandaualt GitHub Stats](https://github-readme-stats.vercel.app/api?username=amandaualt&show_icons=true)
